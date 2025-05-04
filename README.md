@@ -32,24 +32,7 @@ The **Smart Waste Classification System** leverages computer vision and machine 
 3. CNN-based architecture trained on labeled images.
 4. Model evaluation using accuracy, precision, and recall metrics.
 
-## 📁 Project Structure
 
-```
-
-smart-waste-classifier/
-├── dataset/
-│   ├── biodegradable/
-│   ├── non\_biodegradable/
-│   └── recyclable/
-├── model/
-│   └── waste\_classifier.h5
-├── app.py
-├── train\_model.py
-├── predict.py
-├── requirements.txt
-└── README.md
-
-````
 
 ## 🛠️ How to Run
 
