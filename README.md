@@ -35,8 +35,53 @@ The **Smart Waste Classification System** leverages computer vision and machine 
    ```bash
    git clone https://github.com/your-username/smart-waste-classifier.git
    cd smart-waste-classifier
+Install dependencies:
+
+bash
+Copy
+Edit
 pip install -r requirements.txt
+Run prediction script:
+
+bash
+Copy
+Edit
 python predict.py --image path_to_image.jpg
-python predict.py --image path_to_image.jpg
+(Optional) Run web app:
+
+bash
+Copy
+Edit
 python app.py
+📊 Future Scope
+Expand dataset with more categories (e-waste, hazardous waste)
+
+Deploy on edge devices (like Raspberry Pi)
+
+Integrate with IoT-based smart bins
+
+Real-time video classification from CCTV
+
+👨‍💻 Contributors
+Pratik Kamble
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📧 Contact
+For any inquiries or suggestions:
+📩 Email:PK8767346012@GMAIL.COM
+🏫 College: Yeshwantrao Chavan College of Engineering (YCCE), Nagpur
+
+
+
+---
+
+Would you like this saved as a `.md` file for download?
+
+
+
+
+
+
 
