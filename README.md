@@ -1,3 +1,8 @@
+Here's a complete and professional **README.md** file for your **Smart Waste Classification System using Computer Vision** project:
+
+---
+
+```markdown
 # Smart Waste Classification System using Computer Vision
 
 ## 📌 Project Overview
@@ -29,51 +34,73 @@ The **Smart Waste Classification System** leverages computer vision and machine 
 
 ## 📁 Project Structure
 
+```
+
+smart-waste-classifier/
+├── dataset/
+│   ├── biodegradable/
+│   ├── non\_biodegradable/
+│   └── recyclable/
+├── model/
+│   └── waste\_classifier.h5
+├── app.py
+├── train\_model.py
+├── predict.py
+├── requirements.txt
+└── README.md
+
+````
+
 ## 🛠️ How to Run
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/smart-waste-classifier.git
    cd smart-waste-classifier
-2.Install dependencies:
-```bash
-pip install -r requirements.txt
+````
 
-3.Run prediction script:
-```bash
-python predict.py --image path_to_image.jpg
-3.Run web app:
-```bash
-python app.py
-📊 Future Scope
-Expand dataset with more categories (e-waste, hazardous waste)
+2. Install dependencies:
 
-Deploy on edge devices (like Raspberry Pi)
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Integrate with IoT-based smart bins
+3. Run prediction script:
 
-Real-time video classification from CCTV
+   ```bash
+   python predict.py --image path_to_image.jpg
+   ```
 
-👨‍💻 Contributors
-Pratik Kamble
+4. (Optional) Run web app:
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+   ```bash
+   python app.py
+   ```
 
-📧 Contact
+## 📊 Future Scope
+
+* Expand dataset with more categories (e-waste, hazardous waste)
+* Deploy on edge devices (like Raspberry Pi)
+* Integrate with IoT-based smart bins
+* Real-time video classification from CCTV
+
+## 👨‍💻 Contributors
+
+* Pratik Kamble
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
 For any inquiries or suggestions:
-📩 Email:PK8767346012@GMAIL.COM
+📩 Email: \[[PK8767346012@GMAIL.COM](mailto:PK8767346012@GMAIL.COM)]
 🏫 College: Yeshwantrao Chavan College of Engineering (YCCE), Nagpur
 
-
+```
 
 ---
 
 Would you like this saved as a `.md` file for download?
-
-
-
-
-
-
-
+```
