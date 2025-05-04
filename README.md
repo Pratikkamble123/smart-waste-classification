@@ -35,23 +35,11 @@ The **Smart Waste Classification System** leverages computer vision and machine 
    ```bash
    git clone https://github.com/your-username/smart-waste-classifier.git
    cd smart-waste-classifier
-Install dependencies:
-
-bash
-Copy
-Edit
+2.Install dependencies:
 pip install -r requirements.txt
-Run prediction script:
-
-bash
-Copy
-Edit
+3.Run prediction script:
 python predict.py --image path_to_image.jpg
-(Optional) Run web app:
-
-bash
-Copy
-Edit
+3.Run web app:
 python app.py
 📊 Future Scope
 Expand dataset with more categories (e-waste, hazardous waste)
