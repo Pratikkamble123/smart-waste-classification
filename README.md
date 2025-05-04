@@ -29,3 +29,14 @@ The **Smart Waste Classification System** leverages computer vision and machine 
 
 ## 📁 Project Structure
 
+## 🛠️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/smart-waste-classifier.git
+   cd smart-waste-classifier
+pip install -r requirements.txt
+python predict.py --image path_to_image.jpg
+python predict.py --image path_to_image.jpg
+python app.py
+
