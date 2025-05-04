@@ -85,6 +85,3 @@ For any inquiries or suggestions:
 ```
 
 ---
-
-Would you like this saved as a `.md` file for download?
-```
