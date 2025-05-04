@@ -32,7 +32,8 @@ The **Smart Waste Classification System** leverages computer vision and machine 
 3. CNN-based architecture trained on labeled images.
 4. Model evaluation using accuracy, precision, and recall metrics.
 
-
+```
+```
 
 ## 🛠️ How to Run
 
