@@ -86,6 +86,10 @@ python predict.py --image path_to_image.jpg
 python app.py
 ```
 
+### 🟢 Terminal/Console Result  
+<img width="1327" height="462" alt="Image" src="https://github.com/user-attachments/assets/9079b531-d414-4e18-b880-9706317506c8" />
+
+
 ---
 
 ## 📊 Future Scope
