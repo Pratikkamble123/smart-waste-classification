@@ -1,4 +1,3 @@
-Here’s a **rewritten and polished version** of your `README.md` file for the **Smart Waste Classification System using Computer Vision**, now including proper formatting, flow, and **two screenshot sections**:
 
 ---
 
@@ -30,12 +29,14 @@ The **Smart Waste Classification System** uses image recognition and a trained d
 
 ## 🖼️ Screenshots
 
-### 🟢 Classification Output 
-<img width="1873" height="882" alt="Image" src="https://github.com/user-attachments/assets/39afb0e3-4baa-45a4-892d-a5cccf9f4453" />
+## 🖼️ Screenshots
 
-### 🟢 Classification Output 
-<img width="1327" height="462" alt="Image" src="https://github.com/user-attachments/assets/9079b531-d414-4e18-b880-9706317506c8" />
-> _Replace the above links with actual URLs or GitHub raw links to your images._
+### 🟢 Classification Output Example  
+![Prediction](https://raw.githubusercontent.com/your-username/smart-waste-classifier/main/assets/classification_output.png)
+
+### 🟢 Terminal/Console Result  
+![Console](<img width="1327" height="462" alt="Image" src="https://github.com/user-attachments/assets/9079b531-d414-4e18-b880-9706317506c8" />)
+
 
 ---
 
