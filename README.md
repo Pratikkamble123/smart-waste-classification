@@ -1,18 +1,13 @@
 
----
-
-````markdown
 # ♻️ Smart Waste Classification System using Computer Vision
 
 A computer vision-powered system to automatically classify waste into **biodegradable**, **non-biodegradable**, and **recyclable** categories, helping automate waste segregation and promote eco-friendly waste management.
 
----
 
 ## 📌 Project Overview
 
 The **Smart Waste Classification System** uses image recognition and a trained deep learning model to classify waste items. It can be integrated into smart bins or deployed as a desktop or web app, aiming to reduce human error and optimize waste handling operations.
 
----
 
 ## 🚀 Features
 
@@ -25,10 +20,6 @@ The **Smart Waste Classification System** uses image recognition and a trained d
 - 💻 Command-line and optional web-based interface
 - 🧩 Scalable design for smart city or IoT integration
 
----
-
-
----
 
 ## 🔧 Technologies Used
 
@@ -38,8 +29,6 @@ The **Smart Waste Classification System** uses image recognition and a trained d
 - **Scikit-learn**
 - **Flask** (optional - for web deployment)
 
----
-
 ## 🧠 Model Training Pipeline
 
 1. 📸 **Dataset Collection**: Images of labeled waste types from public repositories like Kaggle.
@@ -47,7 +36,7 @@ The **Smart Waste Classification System** uses image recognition and a trained d
 3. 🧮 **Model Architecture**: CNN with multiple convolutional and pooling layers.
 4. ✅ **Evaluation Metrics**: Accuracy, precision, recall.
 
----
+
 
 ## 🛠️ How to Run
 
@@ -82,8 +71,6 @@ python app.py
 <img width="1327" height="462" alt="Image" src="https://github.com/user-attachments/assets/9079b531-d414-4e18-b880-9706317506c8" />
 
 
----
-
 ## 📊 Future Scope
 
 * 🔌 Integration with smart bins using IoT
@@ -92,13 +79,11 @@ python app.py
 * 🔄 Support for additional categories like e-waste and hazardous materials
 * 🧠 On-device inference using TensorFlow Lite or Raspberry Pi
 
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full details.
 
----
 
 ## 📧 Contact
 
